@@ -1,3 +1,7 @@
+#If using sys:
+#import sys
+#filename = sys.argv[1]
+
 from Bio import SeqIO
 
 filename = "sequence.fasta"
